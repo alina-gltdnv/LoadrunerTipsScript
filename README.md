@@ -1,3 +1,3 @@
 # LoadrunerTipsScript
 
-Добавлю сюда свой скрипт
+Скрипт http://loadrunnertips.com/LoadRunner_Correlation_Challenge_Exp.aspx
