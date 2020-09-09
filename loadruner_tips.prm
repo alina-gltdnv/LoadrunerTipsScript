@@ -1,0 +1,8 @@
+[parameter:HostURL]
+CurrentValue="http://loadrunnertips.com"
+IsEncrypt="NO"
+IsServer="NO"
+OriginalValue=""
+ParamName="HostURL"
+Prompt=""
+Type="Custom"
